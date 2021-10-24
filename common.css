@@ -41,7 +41,7 @@
 
 .ant-layout.ant-layout-has-sider .ant-layout-sider.ant-layout-sider-dark .ant-menu.ant-menu-light .ant-menu-item:active,
 .ant-layout.ant-layout-has-sider .ant-layout-sider.ant-layout-sider-dark .ant-menu.ant-menu-light .ant-menu-submenu-title:active {
-    background: rgba(32, 45, 201, 0.1);
+    /* background: rgba(32, 45, 201, 0.1); */
     color: #202dc9;
     opacity: 1;
 }
