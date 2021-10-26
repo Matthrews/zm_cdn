@@ -21,7 +21,7 @@
 }
 
 .ant-layout.ant-layout-has-sider .ant-layout-sider.ant-layout-sider-dark .ant-menu.ant-menu-light .ant-menu-item {
-    padding-left: 28px !important;
+    /* padding-left: 28px !important; */
     margin-top: 0;
 }
 
@@ -75,9 +75,4 @@
 
 .ant-layout.ant-layout-has-sider .ant-layout-content.site-content-container .preferences-page-wrapper {
     margin: 0 -6px;
-}
-
-
-.ant-collapse-header {
-    background-color: rgb(226, 228, 243);
 }
