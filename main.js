@@ -285,8 +285,8 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         if (typeof $.fancybox === 'undefined') {
-            $('head').append(`<link rel="stylesheet" type="text/css" href="${GLOBAL_CONFIG.source.fancybox.css}">`)
-            $.getScript(`${GLOBAL_CONFIG.source.fancybox.js}`, function () {
+            $('head').append(`<link rel="stylesheet" type="text/css" href="https://cdn.bootcdn.net/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">`)
+            $.getScript(`https://cdn.bootcdn.net/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js`, function () {
                 runFancybox($(ele))
             })
         } else {
