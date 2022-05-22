@@ -10,7 +10,7 @@ based on jsDelivr and Github
 https://cdn.jsdelivr.net/gh/Matthrews/zm_cdn/images/cammader.png
 
 ![jsdelivr图床](https://cdn.jsdelivr.net/gh/Matthrews/zm_cdn/images/byte.jpg)
-![imgtu图床](https://s1.ax1x.com/2022/05/22/OxZz90.png)
+![imgtu图床](https://s1.ax1x.com/2022/05/22/OxMLHU.png)
 ![github-blob](https://github.com/Matthrews/zm_cdn/blob/main/images/byte.jpg)
 ![github-raw](https://raw.githubusercontent.com/Matthrews/zm_cdn/main/images/byte.jpg)
 
